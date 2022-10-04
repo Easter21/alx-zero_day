@@ -1,0 +1,9 @@
+ git push
+git pull
+git add .
+git branch
+git checkout
+git log
+git clone
+git commit
+git status
