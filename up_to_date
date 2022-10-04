@@ -1,0 +1,8 @@
+git add .
+git branch
+git checkout
+git push
+git pull
+git status
+git log --oneline
+git clone
